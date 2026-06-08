@@ -36,6 +36,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,styledcomponents,tailwind)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,postgresql,mysql,prisma,graphql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=react,next,vuejs,docker)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=nodejs,postgresql,prisma,graphql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=react,next,vuejs,nestjs,docker)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
