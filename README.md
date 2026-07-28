@@ -11,7 +11,7 @@
 
 ---
 
-- 👨‍💻 Dev front-end na [Auth Soft](https://www.authsoftsolutions.com)
+- 👨‍💻 Dev front-end na [AuthSoft](https://www.authsoftsolutions.com)
 
 - 🔧 Principais ferramentas: Typescript, React, NextJs e NodeJs
 
